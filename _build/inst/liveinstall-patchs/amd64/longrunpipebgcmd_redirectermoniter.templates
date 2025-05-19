@@ -4,8 +4,8 @@ Description: parted,please wait ...
 
 Template: my_script/progress/wget
 Type: text
-Description: wget dd,please wait: ${STATUS}
+Description: tunggu sebentar: ${STATUS}
 
 Template: my_script/progress/grub
 Type: text
-Description: process grub,rebooting ...
+Description: process grub...
